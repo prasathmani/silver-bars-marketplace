@@ -2,10 +2,6 @@
 
 A JavaScript implementation of a simple trading board app allowing the registering of 'Buy' and 'Sell' orders and displaying them on a live order board.
 
-## Technologies
-
-This software was written in JavaScript making use of React for the app.
-
 ## Usage
 
 To use this app clone this repo.
@@ -29,7 +25,7 @@ $ npm start
 Then go to http://localhost:3000/ in the browser.
 Fill in the fields and click place order to register an order (see screenshot below):
 
-![SilverBars Interface](SilverBars-Marketplace.png)
+![SilverBars Interface](SilverBars-Marketplace.PNG)
 
 ## Design Decisions
 
